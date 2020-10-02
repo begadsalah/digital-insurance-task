@@ -1,0 +1,73 @@
+.sign-in-up-page {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    margin: 10rem 0;
+}
+
+.help-tab {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 1rem 0;
+}
+
+.help-tab-grid {
+    background: #4AC29A;
+    /* fallback for old browsers */
+    background: -webkit-linear-gradient(to right, #BDFFF3, #4AC29A);
+    /* Chrome 10-25, Safari 5.1-6 */
+    background: linear-gradient(to right, #BDFFF3, #4AC29A);
+    /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    text-align: center;
+    border-radius: 5%;
+    margin: 3rem;
+    padding: 2rem;
+}
+
+.facebookIcon {
+    color: #097EEB;
+    cursor: pointer;
+    background-color: white;
+    padding: 0.7rem;
+    border-radius: 100%;
+}
+
+.emailIcon {
+    color: rgb(219, 64, 64);
+    cursor: pointer;
+    background-color: white;
+    padding: 0.7rem;
+    border-radius: 100%;
+}
+
+.twitterIcon {
+    color: #1DA1F2;
+    cursor: pointer;
+    background-color: white;
+    padding: 0.7rem;
+    border-radius: 100%;
+}
+
+.help-accounts-text {
+    font-family: 'Montserrat', sans-serif;
+    padding: 1rem;
+    color: black;
+    font-weight: 700;
+
+}
+
+.help-mainText {
+    border-bottom: 3px solid rgba(175, 28, 28, 0.8);
+    margin: 2rem 0;
+    padding: 1rem 0;
+}
+
+.help-button-signUp {
+    margin: 1.5rem 0;
+    padding: 1.5rem 0;
+}

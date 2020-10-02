@@ -1,0 +1,18 @@
+.auto-insurance-page {
+    background-image: url("https://images.unsplash.com/photo-1566228491370-09296660a1ed?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1451&q=80");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.auto-insurance-form {
+    background-color: rgba(255, 255, 255, 0.8);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 3rem;
+    text-align: center;
+    border: 5px dashed whitesmoke;
+    border-radius: 5px;
+}

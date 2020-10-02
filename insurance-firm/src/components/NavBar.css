@@ -1,0 +1,40 @@
+.navBar {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 0.5rem;
+    width: 100%;
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0.5rem;
+
+}
+
+.navbar-companyLogo-div {
+    color: black;
+}
+
+.navbar-elements-div>button {
+    background: none;
+    color: rgb(129, 125, 125);
+    border: none;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    outline: none;
+}
+
+.sign-up-in-div>button {
+    background: none;
+    color: rgb(129, 125, 125);
+    border: none;
+    font-size: 1.1rem;
+    font-family: 'Montserrat', sans-serif;
+    cursor: pointer;
+    outline: none;
+}
+
+.sign-up-in-div>button:hover {
+    color: rgb(75, 177, 240);
+    text-shadow: 2px 4px 3px rgba(0, 0, 0, 0.05);
+}
